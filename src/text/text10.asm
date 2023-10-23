@@ -900,10 +900,9 @@ MixUpDescription: ; 5a2f4 (16:62f4)
 	done 
 
 MixUpDescriptionCont: ; 5a3df (16:63df)
-	text "their deck into their hand."
-	line "Your opponent will now shuffle"
-	line "their deck."
-	done
+	text "her deck into his or her hand. Your"
+	line "opponent shuffles his or her deck"
+	line "afterward."
 
 DancingEmbersName: ; 5a431 (16:6431)
 	text "Midnight Blaze"
@@ -1423,7 +1422,7 @@ JellyfishStingName: ; 5ba02 (16:7a02)
 	done
 
 TentacruelDescription: ; 5ba13 (16:7a13)
-	text "Because it is inept at walking on"
+	text "Because it's inept at walking on"
 	line "its newly grown legs, it always"
 	line "swims around in water."
 	done 
@@ -1443,7 +1442,7 @@ SeaLionName: ; 5ba87 (16:7a87)
 SeelDescription: ; 5ba91 (16:7a91)
 	text "The swirl on its belly subtly"
 	line "undulates. Staring at it may cause"
-	line "drowziness."
+	line "drowsiness."
 	done 
 
 DewgongName: ; 5baf1 (16:7af1)
