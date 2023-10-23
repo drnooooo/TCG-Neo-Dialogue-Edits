@@ -2,7 +2,7 @@
 ; WailName, KadabrasRecoverDescription, 
 
 HorseaDescription: ; 5c000 (17:4000)
-	text "It has suberb accuracy. The water it"
+	text "It has superb accuracy. The water it"
 	line "shoots out can strike even moving"
 	line "prey from more than 300 feet."
 	done 
@@ -76,7 +76,7 @@ StarshapeName: ; 5c2e5 (17:42e5)
 
 StaryuDescription: ; 5c2f0 (17:42f0)
 	text "The male raises the young. If it is"
-	line "apporached, it uses its toxic spikes"
+	line "approached, it uses its toxic spikes"
 	line "to fend off the intruder."
 	done 
 
@@ -227,11 +227,11 @@ ClairvoyanceName: ; 5c8a7 (17:48a7)
 	done
 
 ClairvoyanceDescription: ; 5c8b5 (17:48b5)
-	text "Your opponent plays with his or her"
-	line "hand revealed. This power stops"
-	line "working while Espeon is Asleep,"
-	line "Confused, or Paralyzed."
-	done
+	text "Your opponent plays with their hand"
+   	line "revealed. This power stops working"
+    	line "as long as Espeon is Asleep,"
+    	line "Confused, or Paralyzed."
+    	done
 
 OmanytesWaterGunDescription: ; 5c932 (17:4932)
 	text "Does an additional 10 damage for"
@@ -966,8 +966,8 @@ StrikesBackName: ; 5eb99 (17:6b99)
 	done
 
 StrikesBackDescription: ; 5eba7 (17:6ba7)
-	text "Whenever your opponent's attack"
-	line "damages Wobuffet (even if Wobuffet"
+	text "Whenever an opponent's attack"
+	line "damages Wobbuffet (even if Wobbuffet"
 	line "is Knocked Out), this power does 10"
 	line "damage to the attacking Pokémon."
 	line "(Don't apply Weakness and"
@@ -975,9 +975,9 @@ StrikesBackDescription: ; 5eba7 (17:6ba7)
 	done
 
 StrikesBackDescriptionCont: ; 5ec56 (17:6c56)
-	text "This power can't be used if Wobuffet"
+	text "This power can't be used if Wobbuffet"
 	line "is already Asleep, Confused, or"
-	line "Paralyzed when your opponent"
+	line "Paralyzed when the opponent"
 	line "attacks."
 	done
 
@@ -1016,7 +1016,7 @@ GeodudeDescription: ; 5edae (17:6dae)
 	done 
 
 GravelerName: ; 5ee0e (17:6e0e)
-	text "Wobuffet"
+	text "Wobbuffet"
 	done
 
 HardenName: ; 5ee18 (17:6e18)
@@ -1167,19 +1167,19 @@ WailName: ; 5f4c5 (17:74c5)
 	done
 
 WailDescription: ; 5f4cb (17:74cb)
-	text "Each player fills his or her Bench"
+	text "Both players fill their Bench"
 	line "with Basic Pokémon chosen at random"
-	line "from his or her deck. If a player"
-	line "has fewer Basic Pokémon than that in"
-	line "his or deck, he or she chooses all"
-	line "of them. Each player shuffles his"
-	line "or her deck afterward."
+	line "from their decks. If either player"
+	line "has fewer Basic Pokémon than in"
+	line "their Bench within the deck, they"
+	line "choose all of them. Each player"
+	line "then shuffles each of their decks."
 	done
 
 MarowakLv32Description: ; 5f5b6 (17:75b6)
 	text "It absorbs heat in the air around"
 	line "it. If you suddenly feel cold, it's"
-	line "because a Gengar has appared."
+	line "because a Gengar has appeared."
 	done 
 
 HitmonleeName: ; 5f61a (17:761a)
@@ -1347,7 +1347,7 @@ AbsorbDescriptionCont: ; 5fcc1 (17:7cc1)
 KabutopsDescription: ; 5fd07 (17:7d07)
 	text "The tips of its split tail quiver"
 	line "whenever it uses its psychic ability"
-	line "to read it's opponent's next move."
+	line "to read its opponent's next move."
 	done 
 
 AerodactylName: ; 5fd6c (17:7d6c)
