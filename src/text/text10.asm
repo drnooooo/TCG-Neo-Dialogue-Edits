@@ -426,7 +426,7 @@ InsectName: ; 590cf (16:50cf)
 VenonatDescription: ; 590d7 (16:50d7)
 	text "It moves so fast as to be invisible"
 	line "to the naked eye. Even when standing"
-	line "still, its camoflauge prevents it"
+	line "still, its camouflage prevents it"
 	line "from being seen."
 	done 
 
@@ -1335,9 +1335,9 @@ TadpoleName: ; 5b5f4 (16:75f4)
 
 PoliwagDescription: ; 5b5fd (16:75fd)
 	text "The end of its tail serves as a buoy"
-	line "that keeps it from drowing, even in"
-	line "a vicious current."
-	done 
+	line "that keeps it from drowning, even in"
+	line "vicious currents."
+	done
 
 PoliwhirlName: ; 5b660 (16:7660)
 	text "Poliwhirl"
