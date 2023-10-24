@@ -9,7 +9,7 @@ TransparencyCheckText: ; 3803b (e:403b)
 	done
 
 ConfusionCheckDamageText: ; 3807c (e:407c)
-	text "Confusion check,"
+	text "Confusion check!"
 	line "If Tails, damage to yourself!"
 	done
 
@@ -48,12 +48,12 @@ UnableToRetreatDueToAcidText: ; 381ad (e:41ad)
 
 UnableToUseTrainerDueToHeadacheText: ; 381dc (e:41dc)
 	text "Unable to use a Trainer card"
-	line "due to the effects of Headache."
+	line "due to the effects of Threaten."
 	done
 
 UnableToAttackDueToTailWagText: ; 3821a (e:421a)
 	text "Unable to Attack due to"
-	line "the effects of Tail wag."
+	line "the effects of Tail Wag."
 	done
 
 UnableToAttackDueToLeerText: ; 3824c (e:424c)
@@ -63,7 +63,7 @@ UnableToAttackDueToLeerText: ; 3824c (e:424c)
 
 UnableToAttackDueToBoneAttackText: ; 3827a (e:427a)
 	text "Unable to Attack due to"
-	line "the effects of Bone attack."
+	line "the effects of Bone Attack."
 	done
 
 UnableToUseAttackDueToAmnesiaText: ; 382af (e:42af)
@@ -148,7 +148,7 @@ ChooseResistanceYouWishToChangeText: ; 3860a (e:460a)
 
 ChoosePokemonWishToColorChangeText: ; 38647 (e:4647)
 	text "Choose the Pokémon whose color you"
-	line "wish to change with Color change."
+	line "wish to change with Color Change."
 	done
 
 ChangedTheWeaknessOfPokemonToColorText: ; 3868d (e:468d)
@@ -319,7 +319,7 @@ ProcedureForCurseText: ; 38bfe (e:4bfe)
 
 Choose2EnergyCardsFromDiscardPileToAttachText: ; 38cda (e:4cda)
 	text "Choose 2 Energy cards from the"
-	line "Discard Pileto attach to a Pokémon."
+	line "Discard Pile to attach to a Pokémon."
 	done
 
 Choose2EnergyCardsFromDiscardPileForHandText: ; 38d1e (e:4d1e)
@@ -751,7 +751,7 @@ ThereWasNoEffectFromConfusionText: ; 39c35 (e:5c35)
 	done
 
 ThereWasNoEffectFromPoisonConfusionText: ; 39c5a (e:5c5a)
-	text "There was no effet"
+	text "There was no effect"
 	line "from Poison, Confusion."
 	done
 
@@ -825,7 +825,7 @@ ReceivedLegendaryCardText: ; 39e53 (e:5e53)
 	done
 
 ReceivedPromotionalFlyingPikachuText: ; 39e75 (e:5e75)
-	text "<RAMNAME> received a Promotinal"
+	text "<RAMNAME> received a Promotional"
 	line "card Flyin' Pikachu!"
 	done
 
@@ -1456,7 +1456,7 @@ FlyinPokemonDeckName: ; 3b707 (e:7707)
 	done
 
 LovelyNidoranDeckName: ; 3b717 (e:7717)
-	text "Entymology"
+	text "Entomology"
 	done
 
 PoisonDeckName: ; 3b727 (e:7727)

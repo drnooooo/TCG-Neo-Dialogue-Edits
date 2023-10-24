@@ -228,10 +228,10 @@ ClairvoyanceName: ; 5c8a7 (17:48a7)
 
 ClairvoyanceDescription: ; 5c8b5 (17:48b5)
 	text "Your opponent plays with their hand"
-   	line "revealed. This power stops working"
-    	line "as long as Espeon is Asleep,"
-    	line "Confused, or Paralyzed."
-    	done
+   	line "revealed. This power stops"
+    line "working while Espeon is Asleep,"
+    line "Confused, or Paralyzed."
+    done
 
 OmanytesWaterGunDescription: ; 5c932 (17:4932)
 	text "Does an additional 10 damage for"
@@ -966,7 +966,7 @@ StrikesBackName: ; 5eb99 (17:6b99)
 	done
 
 StrikesBackDescription: ; 5eba7 (17:6ba7)
-	text "Whenever an opponent's attack"
+	text "Whenever your opponent's attack"
 	line "damages Wobbuffet (even if Wobbuffet"
 	line "is Knocked Out), this power does 10"
 	line "damage to the attacking Pokémon."
@@ -975,10 +975,10 @@ StrikesBackDescription: ; 5eba7 (17:6ba7)
 	done
 
 StrikesBackDescriptionCont: ; 5ec56 (17:6c56)
-	text "This power can't be used if Wobbuffet"
-	line "is already Asleep, Confused, or"
-	line "Paralyzed when the opponent"
-	line "attacks."
+	text "This power can't be used if"
+	line "Wobbuffet is already Asleep,"
+	line "Confused, or Paralyzed when"
+	line "your opponent attacks."
 	done
 
 SeismicTossName: ; 5ecc1 (17:6cc1)
@@ -1167,13 +1167,13 @@ WailName: ; 5f4c5 (17:74c5)
 	done
 
 WailDescription: ; 5f4cb (17:74cb)
-	text "Both players fill their Bench"
+	text "Each player fills their Bench"
 	line "with Basic Pokémon chosen at random"
-	line "from their decks. If either player"
-	line "has fewer Basic Pokémon than in"
-	line "their Bench within the deck, they"
-	line "choose all of them. Each player"
-	line "then shuffles each of their decks."
+	line "from their deck. If a player"
+	line "has fewer Basic Pokémon than that in"
+	line "their deck, they choose all"
+	line "of them. Each player shuffles"
+	line "their deck afterwards."
 	done
 
 MarowakLv32Description: ; 5f5b6 (17:75b6)

@@ -158,7 +158,7 @@ PokemonFluteName: ; 6483c (19:483c)
 PokemonFluteDescription: ; 6484b (19:484b)
 	text "Choose 1 Basic Pokémon card from"
 	line "your opponent's discard pile and put"
-	line "it onto his or her Bench. (You can't"
+	line "it onto their Bench. (You can't"
 	line "play this card if your opponent's"
 	line "Bench is full.)"
 	done

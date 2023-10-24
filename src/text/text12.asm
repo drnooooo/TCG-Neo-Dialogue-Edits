@@ -110,7 +110,7 @@ DestinyBondDescription: ; 6051c (18:451c)
 	line "energy card and add it to your hand."
 	line "Shuffle your deck afterwards."
 	line "This power can't be used if Clefable"
-	line "is Asleep, confused, or paralyzed."
+	line "is Asleep, Confused, or Paralyzed."
 	done
 
 GasName: ; 605bf (18:45bf)
@@ -431,10 +431,10 @@ DevolutionBeamName: ; 613a9 (18:53a9)
 	done
 
 DevolutionBeamDescription: ; 613ba (18:53ba)
-	text "Choose an evolved Pokémon (Your"
+	text "Choose an evolved Pokémon (your"
 	line "own or your opponent's). Return"
 	line "the highest stage evolution card"
-	line "on that Pokémon to Its player's"
+	line "on that Pokémon to its player's"
 	line "hand."
 	done
 
@@ -461,9 +461,9 @@ MirrorMoveName: ; 614c3 (18:54c3)
 	done
 
 PidgeottosMirrorMoveDescription: ; 614d0 (18:54d0)
-	text "If Wobuffet was attacked last turn,"
+	text "If Wobbuffet was attacked last turn,"
 	line "do the final result of that attack"
-	line "on Wobuffet to the Defending"
+	line "on Wobbuffet to the Defending"
 	line "Pokémon."
 	done
 
@@ -740,7 +740,7 @@ LullabyName: ; 6213c (18:613c)
 JigglypuffLv14Description: ; 62145 (18:6145)
 	text "Although it looks frightening, it is"
 	line "actually kind and affectionate. It"
-	line "tis very popular."
+	line "is very popular."
 	done 
 
 WigglytuffName: ; 621ac (18:61ac)
@@ -1034,7 +1034,7 @@ TransformName: ; 62d23 (18:6d23)
 DittoDescription: ; 62d2e (18:6d2e)
 	text "Anyone who takes even one bite of"
 	line "Blissey's egg becomes unfailingly"
-	line "caring and pleasent to everyone."
+	line "caring and pleasant to everyone."
 	done 
 
 TailWagName: ; 62d8a (18:6d8a)
@@ -1071,8 +1071,8 @@ Conversion1Name: ; 62ea6 (18:6ea6)
 Conversion1Description: ; 62eb4 (18:6eb4)
 	text "After doing damage, you may change"
 	line "the weakness of the defending"
-	line "Pokémonto a type other than"
-	line "colorless."
+	line "Pokémon to a type other than"
+	line "Colorless."
 	done
 
 Conversion2Name: ; 62f1f (18:6f1f)
@@ -1207,8 +1207,8 @@ ImposterProfessorOakName: ; 63463 (18:7463)
 	done
 
 ImposterProfessorOakDescription: ; 6347b (18:747b)
-	text "Your opponent shuffles his or her"
-	line "hand into his or her deck, then"
+	text "Your opponent shuffles their"
+	line "hand into their deck, then"
 	line "draws 4 cards."
 	done
 
@@ -1294,7 +1294,7 @@ ClefairyDollDescriptionCont: ; 63910 (18:7910)
 	line "opponent does not take a prize. At"
 	line "any time during your turn, before"
 	line "you attack, you may discard Poké"
-	line "Doll.(Use the GameBoy Pokémon Power"
+	line "Doll. (Use the GameBoy Pokémon Power"
 	line "menu option to do this.)"
 	done
 
@@ -1312,7 +1312,7 @@ MysteriousFossilDescriptionCont: ; 63ad2 (18:7ad2)
 	line "opponent does not take a prize. At"
 	line "any time during your turn, before"
 	line "you attack, you may discard Fossil"
-	line "Egg.(Use the GameBoy Pokémon Power"
+	line "Egg. (Use the GameBoy Pokémon Power"
 	line "menu option to do this.)"
 	done
 

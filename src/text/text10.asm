@@ -64,8 +64,8 @@ TerrorStrikeName: ; 581ad (16:41ad)
 TerrorStrikeDescription: ; 581bc (16:41bc)
 	text "Flip a coin. If heads and if your"
 	line "opponent has any Benched Pokémon,"
-	line "they choose 1 of them, and then"
-	line "switch them with the Defending"
+	line "he or she chooses 1 of them and"
+	line "switches it with the Defending"
 	line "Pokémon."
 	line "(Do the damage before switching"
 	line "the Pokémon.)"
@@ -323,7 +323,7 @@ FoulOdorDescription: ; 58c60 (16:4c60)
 	done
 
 GloomDescription: ; 58cad (16:4cad)
-	text "It converts sunlight to energy. In"
+	text "It converts sunlight into energy. In"
 	line "the darkness after sunset, it closes"
 	line "its petals and becomes still."
 	done 
@@ -903,6 +903,7 @@ MixUpDescriptionCont: ; 5a3df (16:63df)
 	text "her deck into his or her hand. Your"
 	line "opponent shuffles his or her deck"
 	line "afterward."
+	done
 
 DancingEmbersName: ; 5a431 (16:6431)
 	text "Midnight Blaze"
@@ -1161,7 +1162,7 @@ FiregiverDescription: ; 5ae1e (16:6e1e)
 	line "your hand. If you have less than 4,"
 	line "put the remaining <FIRE> energies into"
 	line "your hand instead. Shuffle your deck"
-	line "afterward."
+	line "afterwards."
 	done
 
 MoltresLv37Description: ; 5aed3 (16:6ed3)
@@ -1276,7 +1277,7 @@ HeadacheName: ; 5b398 (16:7398)
 
 HeadacheDescription: ; 5b3a2 (16:73a2)
 	text "During your opponent's next turn,"
-	line "they can't play any Trainer card."
+	line "they can't play any Trainer cards."
 	done
 
 DuckName: ; 5b3e7 (16:73e7)
